@@ -3474,10 +3474,10 @@ input, select, textarea {
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.7em;
+					font-size: 0.8em;
 					font-weight: 600;
-					letter-spacing: 0.25em;
-					text-transform: uppercase;
+					letter-spacing: 0.15em;
+					/* text-transform: uppercase; */
 				}
 
 		#banner.major {
